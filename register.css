@@ -1,0 +1,56 @@
+.flex-container {
+    background-color: white;
+    width: 718px;
+    height: 419px;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px; 
+}
+input {
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    width: 616px;
+    height: 50px;
+    margin-bottom: 18px;
+    margin-top: 5px;
+}
+
+    span > input {
+        background: #FFDD04;
+        border-radius: 10px;
+        width: 205px;
+        height: 47px;
+        margin-left: 150px; 
+        font-size: 16px;
+        font-style: normal;      
+}
+span >b {
+ 
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 70px;
+margin-left: 50px;
+
+}
+
+label > div {
+
+color:#0653AD;
+margin-bottom: 44px;
+margin-top: 5px;
+}
+label  {
+    color: #000000;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;   
+}
+label >p{
+    font-size: 26px;
+    margin-top: 40px;
+}
+body {
+    margin-left: 480px;
+    margin-top: 172px;
+}
+ 
